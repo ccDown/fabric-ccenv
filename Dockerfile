@@ -1,4 +1,4 @@
-FROM hyperledger/fabric-ccenv:1.4.0
+FROM hyperledger/fabric-ccenv:1.4.1
 
 ENV NPM_CONFIG_BUILD_FROM_SOURCE=true \
 
